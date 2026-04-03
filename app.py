@@ -76,4 +76,3 @@ with tab2:
             st.error("Add some movies in the sidebar to begin.")
 
 st.markdown("---")
-st.caption("Built for BVM Engineering Project. Powered by Scikit-Surprise & Streamlit.")
